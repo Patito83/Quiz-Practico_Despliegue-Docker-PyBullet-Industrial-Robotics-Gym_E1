@@ -15,6 +15,9 @@ Para realizar el despliegue es importante seguir los siguientes pasos.
 git clone https://github.com/rparak/PyBullet_Industrial_Robotics_Gym.git
 cd PyBullet_Industrial_Robotics_Gym
 ```
+<img width="736" height="70" alt="Captura desde 2025-11-08 11-42-23" src="https://github.com/user-attachments/assets/3b31fc75-5773-4662-ab67-82fa6fd014f8" />
+
+
 2. Para que el despliegue se desarrolle completamente y sin ningun error, se debe tener encuentas las dependencias necesarias.
 
 ```
@@ -55,7 +58,14 @@ VNC es un servidor (Virtual Network Computing), el cual permite medinate softwar
 sudo docker pull dorowu/ubuntu-desktop-lxde-vnc
 sudo docker run -it -p 6080:80 dorowu/ubuntu-desktop-lxde-vnc
 ```
+<img width="1845" height="1017" alt="Captura desde 2025-11-08 11-39-59" src="https://github.com/user-attachments/assets/33635e57-ed9b-4184-95da-4c25cbb16ad0" />
+
 Ya dentro del servidor podremos ver una interfaz del servidor virtual, para empezar el despligue debemos acceder a la terminal del servidor.
+
+<img width="392" height="251" alt="Captura desde 2025-11-08 11-40-07" src="https://github.com/user-attachments/assets/cdbf4516-be34-482c-971e-33eea74781c8" />
+
+<img width="705" height="483" alt="Captura desde 2025-11-08 11-40-15" src="https://github.com/user-attachments/assets/b38e54b5-4454-47d9-9308-412f79fbbd27" />
+
 
 4. Dentro de la terminal instalaremos el pybullet, las dependencias necesarias y la clonación del repositorio
 
@@ -65,4 +75,7 @@ sudo apt install -y python3-pip git
 pip install pybullet numpy
 ```
 
-5.
+5.ff
+
+<img width="956" height="783" alt="Captura desde 2025-11-08 11-42-54" src="https://github.com/user-attachments/assets/196168fc-0de4-480f-a627-323fe01d41cc" /> DDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+
