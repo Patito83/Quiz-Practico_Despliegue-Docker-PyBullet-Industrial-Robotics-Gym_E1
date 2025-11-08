@@ -75,7 +75,28 @@ sudo apt install -y python3-pip git
 pip install pybullet numpy
 ```
 
-5.ff
+5.Para ya poder iniciar el despliegue, solo debemos acceder a la carpeta de `Training` y desplegar el PyBullet del prototipo E1.
 
-<img width="956" height="783" alt="Captura desde 2025-11-08 11-42-54" src="https://github.com/user-attachments/assets/196168fc-0de4-480f-a627-323fe01d41cc" /> DDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+<img width="891" height="177" alt="Captura desde 2025-11-08 11-42-54" src="https://github.com/user-attachments/assets/1278b661-a9b2-4c2e-9c80-47a5dcea30ce" />
+
+📎***Resultados Despliegue***
+
+<img width="1854" height="1048" alt="Captura desde 2025-11-07 20-54-26" src="https://github.com/user-attachments/assets/fc732314-ff10-4237-aae5-b43069300758" />
+
+---------------------------------------------
+
+<img width="1721" height="869" alt="Captura desde 2025-11-07 20-55-51" src="https://github.com/user-attachments/assets/63c3505c-4319-4b11-a3b0-adcfb5386a61" />
+
+---------------------------------------------
+
+<img width="1034" height="787" alt="Captura desde 2025-11-07 20-55-44" src="https://github.com/user-attachments/assets/cd1d194d-d22c-4682-b49f-dd0a3d8d8d87" />
+
+---------------------------------------------
+
+<img width="1034" height="787" alt="Captura desde 2025-11-07 20-54-44" src="https://github.com/user-attachments/assets/a530d3c0-218a-4d8a-9c95-60addcc62278" />
+
+
+
+
+
 
